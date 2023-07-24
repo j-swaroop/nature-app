@@ -13,14 +13,12 @@
 .content-container{
     display: flex;
     flex-direction: column;
-    /* align-items: center; */
-    /* justify-content: center; */
     width: 85%;
+    max-width:1140px;
 
 }
 .image{
     width: 100%;
-    max-width: 950px;
 }
 .title{
     color: #1e293b;
