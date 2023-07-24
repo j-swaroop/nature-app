@@ -1,0 +1,17 @@
+/* Write your code here. */
+.thumbnail-item{
+    margin-right: 8px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    opacity: 0.5;
+}
+
+.thumbnail-item-with-out-opacity{
+    opacity: 1;
+}
+button{
+    border-width: 0;
+    background-color: #ffffff;
+    outline: none;
+    cursor: pointer;
+}
